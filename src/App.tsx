@@ -70,7 +70,7 @@ interface ContentBlock extends BaseBlock {
 type Block = ContainerBlock | ContentBlock;
 
 /**
- * JSX Block Component Props
+ * RequiredJSX Block Component Props
  */
 interface BlockProps {
   className: string;
