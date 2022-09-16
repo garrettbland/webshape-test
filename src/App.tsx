@@ -2,6 +2,10 @@ import { createElement, useEffect, useState } from 'react';
 import { nanoid } from 'nanoid';
 
 /**
+ * woot here
+ */
+
+/**
  * Mock data from database
  */
 const DB_BLOCKS = JSON.stringify([
